@@ -5,9 +5,9 @@ This is an Artificial Intelligence project which allows the program to solve a s
 ## Slider Puzzle Format
 The format of the slider puzzle is a 3x3 grid of 8 tiles, each with a number on it (1-8). The goal state is:
 
-0 1 2__
-3 4 5__
-6 7 8__
+0 1 2  
+3 4 5  
+6 7 8  
 
 where 0 represents the missing tile. A slider puzzle like the one shown above is formatted as: 
 
